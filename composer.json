@@ -1,7 +1,6 @@
 {
 	"name": "sharedtoolbox/dummy",
 	"description": "Dummy package to avoid Composer dependency confusion - https://blog.packagist.com/preventing-dependency-hijacking/",
-	"keywords": [""],
 	"type": "library",
 	"license": "MIT",
 	"authors": [{
